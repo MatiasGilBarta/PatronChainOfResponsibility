@@ -1,0 +1,12 @@
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronChainOfResponsibility\PatronChainOfResponsibility\bin\Debug\PatronChainOfResponsibility.exe.config
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronChainOfResponsibility\PatronChainOfResponsibility\bin\Debug\PatronChainOfResponsibility.exe
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronChainOfResponsibility\PatronChainOfResponsibility\bin\Debug\PatronChainOfResponsibility.pdb
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronChainOfResponsibility\PatronChainOfResponsibility\bin\Debug\BLL.dll
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronChainOfResponsibility\PatronChainOfResponsibility\bin\Debug\Domain.dll
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronChainOfResponsibility\PatronChainOfResponsibility\bin\Debug\BLL.pdb
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronChainOfResponsibility\PatronChainOfResponsibility\bin\Debug\Domain.pdb
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronChainOfResponsibility\PatronChainOfResponsibility\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronChainOfResponsibility\PatronChainOfResponsibility\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronChainOfResponsibility\PatronChainOfResponsibility\obj\Debug\UI.csproj.Up2Date
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronChainOfResponsibility\PatronChainOfResponsibility\obj\Debug\PatronChainOfResponsibility.exe
+C:\Aplicaciones\Visual Studio 2022\Trabajos en Visual Studio 2022\repos\PatronChainOfResponsibility\PatronChainOfResponsibility\obj\Debug\PatronChainOfResponsibility.pdb
