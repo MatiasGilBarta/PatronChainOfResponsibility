@@ -18,6 +18,7 @@ namespace PatronChainOfResponsibility
             presupuesto.Cliente = cliente;
             presupuesto.Monto = 750;
 
+            Console.WriteLine($"El monto que se desea aprobar es de: {presupuesto.Monto}");
             PresupuestoService.Aprobar(presupuesto);
 
             Console.WriteLine($"El presupuesto quedo en estado: {presupuesto.Estado}");
@@ -25,6 +26,7 @@ namespace PatronChainOfResponsibility
             presupuesto.Estado = EnumEstadoAprobacion.Desaprobado;
             presupuesto.Monto = 20000;
 
+            Console.WriteLine($"El monto que se desea aprobar es de: {presupuesto.Monto}");
             PresupuestoService.Aprobar(presupuesto);
             Console.WriteLine($"El presupuesto quedo en estado: {presupuesto.Estado}");
 

@@ -15,7 +15,10 @@ namespace BLL.ChainOfRensposibility
             Console.WriteLine($"Ejecutando la aprovacion -> Dueño del taller");
             //aplicar las reglas de negocio de acuerdo al dominio
             if (presupuesto.Monto > 2000)
+            {
+                Console.WriteLine($"Aprobado por Dueño del taller");
                 presupuesto.Estado = EnumEstadoAprobacion.Aprobado;
+            }
             else if (this.Successor != null)
                 this.Successor.Aprobar(presupuesto);
             else
